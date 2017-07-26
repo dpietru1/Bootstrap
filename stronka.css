@@ -1,0 +1,51 @@
+.navbar{
+	margin-bottom: 0;
+}
+.container-zdjecie{
+	padding: 0;
+}
+.row{
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+.green{
+	background-color: green;
+	font-size: 30px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+span{
+	display: block;
+}
+.icon{
+	font-size: 50px;
+}
+ul{
+	text-align: left;
+}
+li span{
+	font-size: 14px;
+}
+.bart{
+	margin-top: 10px;
+	display: inline-block;
+	height: 200px;
+}
+.left{
+	margin-bottom: 30px;
+}
+.right{
+	margin-bottom: 60px;
+}
+.container{
+	background-color: pink;
+}
+.white{
+	background-color: white;
+	padding: 10px;
+}
+.space{
+	margin-top: 20px;
+	padding-top: 20px;
+}
